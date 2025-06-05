@@ -1,0 +1,15 @@
+/Users/owen/RiderProjects/slewOfProjects/slewOfProjects/bin/Debug/net9.0/slewOfProjects
+/Users/owen/RiderProjects/slewOfProjects/slewOfProjects/bin/Debug/net9.0/slewOfProjects.deps.json
+/Users/owen/RiderProjects/slewOfProjects/slewOfProjects/bin/Debug/net9.0/slewOfProjects.runtimeconfig.json
+/Users/owen/RiderProjects/slewOfProjects/slewOfProjects/bin/Debug/net9.0/slewOfProjects.dll
+/Users/owen/RiderProjects/slewOfProjects/slewOfProjects/bin/Debug/net9.0/slewOfProjects.pdb
+/Users/owen/RiderProjects/slewOfProjects/slewOfProjects/obj/Debug/net9.0/slewOfProjects.GeneratedMSBuildEditorConfig.editorconfig
+/Users/owen/RiderProjects/slewOfProjects/slewOfProjects/obj/Debug/net9.0/slewOfProjects.AssemblyInfoInputs.cache
+/Users/owen/RiderProjects/slewOfProjects/slewOfProjects/obj/Debug/net9.0/slewOfProjects.AssemblyInfo.cs
+/Users/owen/RiderProjects/slewOfProjects/slewOfProjects/obj/Debug/net9.0/slewOfProjects.csproj.CoreCompileInputs.cache
+/Users/owen/RiderProjects/slewOfProjects/slewOfProjects/obj/Debug/net9.0/slewOfProjects.dll
+/Users/owen/RiderProjects/slewOfProjects/slewOfProjects/obj/Debug/net9.0/refint/slewOfProjects.dll
+/Users/owen/RiderProjects/slewOfProjects/slewOfProjects/obj/Debug/net9.0/slewOfProjects.pdb
+/Users/owen/RiderProjects/slewOfProjects/slewOfProjects/obj/Debug/net9.0/slewOfProjects.genruntimeconfig.cache
+/Users/owen/RiderProjects/slewOfProjects/slewOfProjects/obj/Debug/net9.0/ref/slewOfProjects.dll
+/Users/owen/RiderProjects/slewOfProjects/slewOfProjects/obj/Debug/net9.0/slewOfProjects.sourcelink.json
