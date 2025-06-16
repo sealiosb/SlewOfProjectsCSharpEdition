@@ -6,7 +6,7 @@ public class LongestConsecutiveSequence
 {
     public static void Run()
     {
-        int[] nums = { 100, 4, 200, 1, 3, 2 };
+        int[] nums = { 100, 4, 200, 1, 3, 2, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 231, 1231, 15235, 123123, 201, 202 };
         
         Array.Sort(nums);
 
@@ -31,6 +31,7 @@ public class LongestConsecutiveSequence
                     maxStreak = currentStreak;
                 }
                 
+                previousNum = num;
                 currentStreak = 1; // Reset streak if not consecutive
             }
             
