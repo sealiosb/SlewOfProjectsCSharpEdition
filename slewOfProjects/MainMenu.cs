@@ -10,6 +10,7 @@ public class MainMenu
         Console.WriteLine("1. RN Guessing Game");
         Console.WriteLine("2. Banking App Backend");
         Console.WriteLine("3. First Unique Character in String");
+        Console.WriteLine("4. Longest Consecutive Sequence in Number Array");
         Console.WriteLine("Enter the number of your choice:");
         
         
@@ -28,6 +29,14 @@ public class MainMenu
             else if (index == 3)
             {
                 FirstUniqueCharacter.Run();
+            }
+            else if (index == 4)
+            {
+                LongestConsecutiveSequence.Run();
+            }
+            else
+            {
+                Console.WriteLine("Invalid choice. Please select a valid project number.");
             }
                 
         }
