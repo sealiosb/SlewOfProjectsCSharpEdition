@@ -9,6 +9,7 @@ public class MainMenu
         Console.WriteLine("Please select a project to run:");
         Console.WriteLine("1. RN Guessing Game");
         Console.WriteLine("2. Banking App Backend");
+        Console.WriteLine("3. First Unique Character in String");
         Console.WriteLine("Enter the number of your choice:");
         
         
@@ -23,6 +24,10 @@ public class MainMenu
             else if (index == 2)
             {
                 BankingAppMain.Run();
+            }
+            else if (index == 3)
+            {
+                FirstUniqueCharacter.Run();
             }
                 
         }
