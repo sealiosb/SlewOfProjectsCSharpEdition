@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("slewOfProjects")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+75e8c58f7c0b4f4bafe9c9b8896416e701b83995")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f7a19e1775242555ff8b94c2ffa405458bbfbca2")]
 [assembly: System.Reflection.AssemblyProductAttribute("slewOfProjects")]
 [assembly: System.Reflection.AssemblyTitleAttribute("slewOfProjects")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
