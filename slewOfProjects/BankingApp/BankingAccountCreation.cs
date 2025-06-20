@@ -30,7 +30,7 @@ public class BankingAccountCreation
                 return;
             }
 
-            string password = BankingAccountCreation.GeneratePassword(firstName, lastName);
+            string password = GeneratePassword(firstName, lastName);
             Console.WriteLine("To ensure your account is secure, we have generated a password for you.");
             Console.WriteLine($"Your password is {password} write this down and keep it safe.");
 
